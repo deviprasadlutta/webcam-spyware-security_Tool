@@ -32,4 +32,4 @@ This project is a desktop application developed using Python to prevent unauthor
 
 ```bash
 git clone https://github.com/deviprasadlutta/webcam-spyware-security_Tool.git
-cd webcam-spyware-security
+cd webcam-spyware-security_Tool
